@@ -23,7 +23,7 @@
     "url": "https://github.com/FirebaseExtended/experimental-extensions/issues"
   },
   "devDependencies": {
-    "firebase-tools": "^9.9.0",
+    "firebase-tools": "^14.9.0",
     "husky": "^7.0.4",
     "lerna": "^3.4.3",
     "lint-staged": "^12.4.0",
